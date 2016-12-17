@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+var name = "Jimmy"
+console.log("Nice to meet you, " + name + "!")
